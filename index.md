@@ -9,7 +9,7 @@ Welcome to my ePortfolio!
 
 ## Code Review Video
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: flex-start; background-color: #f9f9f9; padding: 20px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: flex-start; background-color: #c9c7c7; padding: 20px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
 
 <div style="flex: 1; min-width: 300px;">
 In this code review, I first go over the artifact used for all three enhancements: Software Engineering and Design, Algorithms and Data Structure, and Databases. My artifact was the first project I ever worked on at SNHU, a text-based game that was the final project for IT-140, completed in 2023.
