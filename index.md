@@ -10,6 +10,12 @@ Welcome to my ePortfolio!
 ## Artifact Overview
 
 <div style="background-color: #c9c7c7; padding: 20px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); margin-bottom: 30px;">
+
+<!-- OG Running Screenshot -->
+<div style="text-align:center; margin-bottom: 15px;">
+  <img src="images/OG Running.png" alt="Original LostLab Running Screenshot" style="max-width:100%; border-radius:10px;">
+</div>
+
 I used the same artifact for all three enhancements — Software Engineering and Design, Algorithms and Data Structure, and Databases. 
 It was the first project I ever worked on at SNHU: a text-based game that served as the final project for course IT-140. 
 While simple in design, it was fully functional and a perfect candidate for enhancement in each category. 
