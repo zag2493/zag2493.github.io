@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Software Engineering & Design Enhancement"
+permalink: /enhancements/software_design/
 ---
 
 # Software Engineering & Design Enhancement 
