@@ -63,9 +63,9 @@ The first enhancement focuses on Software Engineering and Design. The original g
 
 <div style="text-align:center; margin-top:20px;">
   <a href="enhancements/software_design.md" 
-     style="background-color:#4CAF50; color:white; padding:10px 25px; text-decoration:none; border-radius:5px; font-weight:bold;">
-     Read Full Software Engineering & Design Enhancement
-  </a>
+   style="background-color:#4CAF50; color:white; padding:10px 25px; text-decoration:none; border-radius:5px; font-weight:bold;">
+   Read Full Software Engineering & Design Enhancement
+</a>
 </div>
 
 </div>
