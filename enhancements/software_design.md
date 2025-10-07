@@ -22,7 +22,10 @@ I selected this artifact for this category because it directly contrasts my firs
   <img src="/images/FinalGameRunning.png" alt="Final LostLab Enhanced Running Screenshot" style="max-width:100%; border-radius:10px;">
 </div>
 
+</div>
+
 Specific components highlighting my software development skills:
+
 - **OOP Structure (Room, Player, Game classes):** Encapsulates logic, such as Player.move checking hazards like Med Bay requiring MKIV Suit and MKV Helmet, which showcases modularity and encapsulation for easier maintenance.
   
 - **Tkinter GUI:** Implements a dark-themed interface with a visual map, compass, labeled buttons, and real-time status updates (such as inventory display), this demonstrates UI/UX design for accessibility, tying directly to the planned algorithm enhancements for visualizing graph paths.
@@ -30,5 +33,7 @@ Specific components highlighting my software development skills:
 - **Input Validation and Error Handling:** Regex (^[a-zA-Z\s]+$) in handle_action secures item entry, preventing invalid inputs, while try-except blocks in database methods ensure graceful failures.
   
 - **Unit Testing and Documentation:** test_Lost_Lab.py validates the enhancements, and the docstrings/comments through all files explain the function or decisions made.
+
+<div style="background-color: #c9c7c7; padding: 20px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); margin-bottom: 30px;">
 
 </div>
