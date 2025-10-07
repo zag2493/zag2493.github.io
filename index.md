@@ -62,10 +62,11 @@ To create my code review, I used TechSmith Capture to record my screen and follo
 The first enhancement focuses on Software Engineering and Design. The original game LostLab, was a basic, dictionary-driven game that had little input handling and no structure. For the enhancement I focused on an object-oriented application with a Tkinter GUI, focusing on software engineering principles to make it more maintainable, user-friendly, and scalable. 
 
 <div style="text-align:center; margin-top:20px;">
-  <a href="enhancements/software_design/" 
-   style="background-color:#4CAF50; color:white; padding:10px 25px; text-decoration:none; border-radius:5px; font-weight:bold;">
-   Read Full Software Engineering & Design Enhancement
-</a>
+  <a href="/enhancements/software_design/" 
+     style="background-color:#4CAF50; color:white; padding:10px 25px; text-decoration:none; border-radius:5px; font-weight:bold;">
+     Read Full Software Engineering & Design Enhancement
+  </a>
 </div>
+
 
 </div>
