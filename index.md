@@ -23,7 +23,13 @@ This artifact allows a clear comparison of my earliest work at SNHU with the fin
 
 If you would like to view the original LostLab in its entirety, please click the link below.
 
-👉 <a href="https://github.com/zag2493/zag2493.github.io/blob/main/OriginalLostLab.py" target="_blank" rel="noopener noreferrer">View Original Artifact on GitHub</a>
+<div style="text-align:center; margin-top:20px;">
+  <a href="https://github.com/zag2493/zag2493.github.io/blob/main/OriginalLostLab.py" 
+     target="_blank" 
+     rel="noopener noreferrer"
+     style="background-color:#4CAF50; color:white; padding:10px 25px; text-decoration:none; border-radius:5px; font-weight:bold;">
+     View Original Artifact on GitHub
+  </a>
 </div>
 
 ## Code Review Video
