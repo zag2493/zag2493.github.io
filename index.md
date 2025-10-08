@@ -32,6 +32,7 @@ If you would like to view the original LostLab in its entirety, please click the
   </a>
 </div>
 
+</div>
 ## Code Review Video
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: flex-start; background-color: #c9c7c7; padding: 20px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
