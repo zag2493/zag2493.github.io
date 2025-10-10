@@ -75,5 +75,19 @@ The first enhancement focuses on Software Engineering and Design. The original g
 </a>
 </div>
 
+## Algorithms and Data Structure Enhancement 
+
+<div style="background-color: #c9c7c7; padding: 20px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); margin-bottom: 30px;">
+
+The second enhancement targets Algorithms and Data Structure, this transforms Lost Lab from a basic, list-based navigation system into an optimized, graph driven application. By using NetworkX for weighted graphs, set-based inventory, and Dijkstra's algorithm for pathfinding features, this enhancement brings efficiency and scalability.
+
+<div style="text-align:center; margin-top:20px;">
+<a href="/enhancements/algorithms/" 
+   style="background-color:#4CAF50; color:white; padding:10px 25px; text-decoration:none; border-radius:5px; font-weight:bold;">
+   Read Full Algorithms and Data Structure Enhancement
+</a>
+</div>
+
+
 
 </div>
