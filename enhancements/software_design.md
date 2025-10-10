@@ -59,4 +59,13 @@ Course Outcomes
   <img src="/images/passedunittests.png" alt="Final LostLab Enhanced Passed Unit Tests" style="max-width:100%; border-radius:10px;">
 </div>
 
+This shows the unit tests passing. If you would like to see the full unit test script please click the link. 
+
+<div style="text-align:center; margin-top:20px;">
+  <a href="https://github.com/zag2493/zag2493.github.io/blob/main/test_Lost_Lab_Enhanced.py" 
+     target="_blank" 
+     rel="noopener noreferrer"
+     style="background-color:#4CAF50; color:white; padding:10px 25px; text-decoration:none; border-radius:5px; font-weight:bold;">
+     View Original Artifact on GitHub
+  </a>
 </div>
