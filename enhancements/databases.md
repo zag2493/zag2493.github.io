@@ -50,7 +50,14 @@ Course Outcomes
 
 - **Innovative Techniques:** Leveraged SQLite and Matplotlib for data persistence and analytics, delivering value through robust storage and user insights.
 
-- **Security Mindset:** Used parameterized queries and foreign keys to prevent injection and ensure data integrity, with tests validating secure save/load operations..
+- **Security Mindset:** Used parameterized queries and foreign keys to prevent injection and ensure data integrity, with tests validating secure save/load operations.
+
+<div style="text-align:center; margin-top:40px;">
+  <a href="/" 
+     style="background-color:#555; color:white; padding:10px 25px; text-decoration:none; border-radius:5px; font-weight:bold;">
+     ⬅ Back to Home
+  </a>
+</div>
  
 
 
