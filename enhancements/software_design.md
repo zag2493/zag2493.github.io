@@ -66,7 +66,7 @@ This shows the unit tests passing. If you would like to see the full unit test s
      target="_blank" 
      rel="noopener noreferrer"
      style="background-color:#4CAF50; color:white; padding:10px 25px; text-decoration:none; border-radius:5px; font-weight:bold;">
-     View Original Artifact on GitHub
+     View Unit Tests on GitHub
   </a>
 </div>
 
