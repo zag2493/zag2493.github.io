@@ -10,14 +10,14 @@ permalink: /enhancements/algorithms/
 
 <!-- Performance Screenshot -->
 <div style="text-align:center; margin-bottom: 15px;">
-  <img src="images/performance.png" alt="Lost Lab Performance Screenshot" style="max-width:100%; border-radius:10px;">
+  <img src="/images/performance.png" alt="Lost Lab Performance Screenshot" style="max-width:100%; border-radius:10px;">
 </div>
 
 The original artifact Lost Lab, a Python text-based game initially developed as my final project for IT 140 also provided me an opportunity to use it for the Algorithms and Data Structure Enhancement. I choose to enhance it with advanced algorithms, building on the work completed for Software Engineering and Development (OOP, Tkinter). This phase, focused on optimizing navigation and inventory management using graph-based structures and choosing efficient data types. I choose Lost Lab for this category because it can clearly show my growth from a novice programmer to one that shows proficient algorithmic design and optimization. As Lost Lab was my first project, it originally was reliant on lists and basic loops, which was inefficient, making it an ideal candidate to showcase advanced techniques like graph modeling and set operation. The enhancement transforms it into a scalable, performance-driven application, aligning with an emphasis on algorithmic rigor and efficiency. 
 
 <!-- Shortest Path Screenshot -->
 <div style="text-align:center; margin-bottom: 15px;">
-  <img src="images/shortestpath.png" alt="Shortest Path Code Screenshot" style="max-width:100%; border-radius:10px;">
+  <img src="/images/shortestpath.png" alt="Shortest Path Code Screenshot" style="max-width:100%; border-radius:10px;">
 </div>
 
 </div>
@@ -54,14 +54,21 @@ Course Outcomes
 
 <!-- Highlighted Path Example -->
 <div style="text-align:center; margin-bottom: 15px;">
-  <img src="images/hpexample.png" alt="Highlighted Path Example Lost Lab" style="max-width:100%; border-radius:10px;">
+  <img src="/images/hpexample.png" alt="Highlighted Path Example Lost Lab" style="max-width:100%; border-radius:10px;">
 </div>
 
 Showcasing the highlighted path from Rec Room to Terrarium.
 
 <!-- Weighted Path Example -->
 <div style="text-align:center; margin-bottom: 15px;">
-  <img src="images/weightedexample.png" alt="Weighted Path Example Lost Lab" style="max-width:100%; border-radius:10px;">
+  <img src="/images/weightedexample.png" alt="Weighted Path Example Lost Lab" style="max-width:100%; border-radius:10px;">
 </div>
 
 Weighted path example, showing that without the proper items, the shortest path from Cargo Hold to Lab requires you to go around rather than straight through Med Bay. 
+
+<div style="text-align:center; margin-top:40px;">
+  <a href="/" 
+     style="background-color:#555; color:white; padding:10px 25px; text-decoration:none; border-radius:5px; font-weight:bold;">
+     ⬅ Back to Home
+  </a>
+</div>
