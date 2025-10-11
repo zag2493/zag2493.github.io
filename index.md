@@ -127,6 +127,8 @@ The third enhancement focuses on Databases, elevating Lost Lab by creating a per
 </a>
 </div>
 
+</div>
+
 <div style="text-align:center; margin-top:20px;">
   <a href="https://github.com/zag2493/zag2493.github.io/blob/main/LostLabEnhanced.py" 
      target="_blank" 
