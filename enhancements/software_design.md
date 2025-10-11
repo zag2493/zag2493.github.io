@@ -70,6 +70,33 @@ This shows the unit tests passing. If you would like to see the full unit test s
   </a>
 </div>
 
+<div style="text-align:center; margin-top:20px;">
+  <a href="https://github.com/zag2493/zag2493.github.io/blob/main/LostLabEnhanced.py" 
+     target="_blank" 
+     rel="noopener noreferrer"
+     style="background-color:#4CAF50; color:white; padding:10px 25px; text-decoration:none; border-radius:5px; font-weight:bold;">
+     View Lost Lab Enhanced on GitHub
+  </a>
+</div>
+
+<div style="text-align:center; margin-top:20px;">
+  <a href="https://github.com/zag2493/zag2493.github.io/blob/main/test_Lost_Lab_Enhanced.py" 
+     target="_blank" 
+     rel="noopener noreferrer"
+     style="background-color:#4CAF50; color:white; padding:10px 25px; text-decoration:none; border-radius:5px; font-weight:bold;">
+     View Lost Lab Unit Tests on GitHub
+  </a>
+</div>
+
+<div style="text-align:center; margin-top:20px;">
+  <a href="https://github.com/zag2493/zag2493.github.io/blob/main/performance.py" 
+     target="_blank" 
+     rel="noopener noreferrer"
+     style="background-color:#4CAF50; color:white; padding:10px 25px; text-decoration:none; border-radius:5px; font-weight:bold;">
+     View Lost Lab Performance File on GitHub
+  </a>
+</div>
+
 <div style="text-align:center; margin-top:40px;">
   <a href="/" 
      style="background-color:#555; color:white; padding:10px 25px; text-decoration:none; border-radius:5px; font-weight:bold;">
