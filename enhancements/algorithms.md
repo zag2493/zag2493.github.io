@@ -66,6 +66,33 @@ Showcasing the highlighted path from Rec Room to Terrarium.
 
 Weighted path example, showing that without the proper items, the shortest path from Cargo Hold to Lab requires you to go around rather than straight through Med Bay. 
 
+<div style="text-align:center; margin-top:20px;">
+  <a href="https://github.com/zag2493/zag2493.github.io/blob/main/LostLabEnhanced.py" 
+     target="_blank" 
+     rel="noopener noreferrer"
+     style="background-color:#4CAF50; color:white; padding:10px 25px; text-decoration:none; border-radius:5px; font-weight:bold;">
+     View Lost Lab Enhanced on GitHub
+  </a>
+</div>
+
+<div style="text-align:center; margin-top:20px;">
+  <a href="https://github.com/zag2493/zag2493.github.io/blob/main/test_Lost_Lab_Enhanced.py" 
+     target="_blank" 
+     rel="noopener noreferrer"
+     style="background-color:#4CAF50; color:white; padding:10px 25px; text-decoration:none; border-radius:5px; font-weight:bold;">
+     View Lost Lab Unit Tests on GitHub
+  </a>
+</div>
+
+<div style="text-align:center; margin-top:20px;">
+  <a href="https://github.com/zag2493/zag2493.github.io/blob/main/performance.py" 
+     target="_blank" 
+     rel="noopener noreferrer"
+     style="background-color:#4CAF50; color:white; padding:10px 25px; text-decoration:none; border-radius:5px; font-weight:bold;">
+     View Lost Lab Performance File on GitHub
+  </a>
+</div>
+
 <div style="text-align:center; margin-top:40px;">
   <a href="/" 
      style="background-color:#555; color:white; padding:10px 25px; text-decoration:none; border-radius:5px; font-weight:bold;">
