@@ -69,3 +69,10 @@ This shows the unit tests passing. If you would like to see the full unit test s
      View Original Artifact on GitHub
   </a>
 </div>
+
+<div style="text-align:center; margin-top:40px;">
+  <a href="/" 
+     style="background-color:#555; color:white; padding:10px 25px; text-decoration:none; border-radius:5px; font-weight:bold;">
+     ⬅ Back to Home
+  </a>
+</div>
