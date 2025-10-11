@@ -5,6 +5,11 @@ title: "Home"
 
 # {{ site.title }}
 
+<!-- Profile Pic -->
+<div style="text-align:center; margin-bottom: 15px;">
+  <img src="images/profile.JPEG" alt="Profile Picture" style="max-width:100%; border-radius:10px;">
+</div>
+
 Hello, my name is Zachariah Garrison, and welcome to my ePortfolio. I attended Southern New Hampshire University from 2023 to 2025, earning my Bachelor’s Degree in Computer Science with a concentration in Software Engineering. My time at SNHU has helped shape my career goals and set me on a new path in the world of technology. The courses I’ve completed have prepared me for a dynamic career in software engineering, emphasizing both technical expertise and professional values.
 
 Developing my ePortfolio, centered around enhancing my first SNHU project Lost Lab, across all three enhancement categories—Software Engineering and Design, Algorithms and Data Structures, and Databases—has allowed me to showcase how far I’ve come as a developer. Comparing my first and final versions of the project highlights my growth in designing robust, user-focused solutions while strengthening my values in collaboration, clarity, and security. Through coursework and hands-on projects, I’ve gained a well-rounded skill set that includes modular design, algorithmic optimization, and secure data management—skills that will enable me to contribute meaningfully to any development team or organization.
