@@ -129,6 +129,21 @@ The third enhancement focuses on Databases, elevating Lost Lab by creating a per
 
 </div>
 
+Course Outcomes: 
+
+Lost Lab Enhanced, along with the unit tests and performance file, that was used for all three enhancements - Software Engineering and Design, Algorithms and Data Structure, and Databases - fully meet all course outcomes, demonstrating my proficiency in computer science and my readiness for professional software engineering roles. 
+
+- **Building Collaborative Environments:** Across all enhancement, comprehensive docstrings, inline comments, and detailed narratives in the GitHub repository, provide all the tools of a welcoming collaborative environment. The Unit Tests ensure reliability for collaborators and the performance metrics can support decision making, enabling different audiences to engage with my project effectively.
+
+- **Professional Communication:** The Tkinter GUI delivers user-friendly visuals such as the grid-based map, labeled buttons, 3-second path highlights, and clear instructions, adapting complex logic such as graph navigation, database queries, for non-technical players. Also the user logs provide error and actionable information, win/lose stats provide player feedback, and is designed to appeal to stakeholders and non-technical users with coherent, audience-tailored communication.
+
+- **Computing Solutions:** Lost Lab enhanced solves navigation, inventory, and persistence problems through modular OOP classes in Room, Player, and Game, NetworkX graphs with Dijkstra's algorithm, and SQLite CRUD operations. Design trade-offs (sets vs list, Dijkstra's vs BFS, JSON vs SQLite) were managed to optimize efficiency and functionality, adhering to algorithmic principles and industry standards.
+
+- **Innovative Techniques:** Leveraging modern tools like Tkninter for GUI, NetworkX for graph navigation, SQLite for persistence, and Matplotlib for visualizations deliver a scalable, fully functional game. Unit testing covering a wide array such as hazards, save, load, actions, and stats along with performance testing ensure industry standard performance.
+
+- **Security Mindset:** Input validation via regex prevents injection in item entries, parameterized SQLite queries mitigate SQL exploits, and foreign keys ensure data integrity. Unit tests expose vulnerabilities like unauthorized hazard access, while try-except blocks ensure graceful error handling, safeguarding data privacy and system reliability.
+  
+
 <div style="text-align:center; margin-top:20px;">
   <a href="https://github.com/zag2493/zag2493.github.io/blob/main/LostLabEnhanced.py" 
      target="_blank" 
@@ -154,6 +169,4 @@ The third enhancement focuses on Databases, elevating Lost Lab by creating a per
      style="background-color:#4CAF50; color:white; padding:10px 25px; text-decoration:none; border-radius:5px; font-weight:bold;">
      View Lost Lab Performance File on GitHub
   </a>
-</div>
-
 </div>
