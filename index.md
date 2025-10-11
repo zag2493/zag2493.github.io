@@ -7,7 +7,7 @@ title: "Home"
 
 <!-- Profile Pic -->
 <div style="text-align:center; margin-bottom: 15px;">
-  <img src="images/profile.JPEG" alt="Profile Picture" style="max-width:100%; border-radius:10px;">
+  <img src="images/profileup.JPEG" alt="Profile Picture" style="max-width:100%; border-radius:10px;">
 </div>
 
 Hello, my name is Zachariah Garrison, and welcome to my ePortfolio. I attended Southern New Hampshire University from 2023 to 2025, earning my Bachelor’s Degree in Computer Science with a concentration in Software Engineering. My time at SNHU has helped shape my career goals and set me on a new path in the world of technology. The courses I’ve completed have prepared me for a dynamic career in software engineering, emphasizing both technical expertise and professional values.
