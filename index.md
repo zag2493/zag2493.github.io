@@ -81,7 +81,7 @@ The first enhancement focuses on Software Engineering and Design. The original g
 
 <div style="background-color: #c9c7c7; padding: 20px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); margin-bottom: 30px;">
 
-<!-- Final Game Running Screenshot -->
+<!-- Performance Screenshot -->
 <div style="text-align:center; margin-bottom: 15px;">
   <img src="images/performance.png" alt="Lost Lab Performance Screenshot" style="max-width:100%; border-radius:10px;">
 </div>
@@ -93,6 +93,26 @@ The second enhancement targets Algorithms and Data Structure, this transforms Lo
 <a href="/enhancements/algorithms/" 
    style="background-color:#4CAF50; color:white; padding:10px 25px; text-decoration:none; border-radius:5px; font-weight:bold;">
    Read Full Algorithms and Data Structure Enhancement
+</a>
+</div>
+
+</div> 
+
+## Databases
+
+<div style="background-color: #c9c7c7; padding: 20px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); margin-bottom: 30px;">
+
+<!-- Database Screenshot -->
+<div style="text-align:center; margin-bottom: 15px;">
+  <img src="images/db.png" alt="Lost Lab Database Screenshot" style="max-width:100%; border-radius:10px;">
+</div>
+
+The third enhancement focuses on Databases, elevating Lost Lab by creating a persistent application using SQLite. By implementing tables for player, inventory, rooms, and logs with CRUD operations and queries for win/lose visualization, this upgrade ensures robust data management and analytics, replacing the original's temporary state with scalable, secure storage. 
+
+<div style="text-align:center; margin-top:20px;">
+<a href="/enhancements/databases/" 
+   style="background-color:#4CAF50; color:white; padding:10px 25px; text-decoration:none; border-radius:5px; font-weight:bold;">
+   Read Full Database Enhancement
 </a>
 </div>
 
