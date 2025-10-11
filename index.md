@@ -134,7 +134,7 @@ The third enhancement focuses on Databases, elevating Lost Lab by creating a per
 
 </div>
 
-Course Outcomes: 
+## Course Outcomes
 
 Lost Lab Enhanced, along with the unit tests and performance file, that was used for all three enhancements - Software Engineering and Design, Algorithms and Data Structure, and Databases - fully meet all course outcomes, demonstrating my proficiency in computer science and my readiness for professional software engineering roles. 
 
